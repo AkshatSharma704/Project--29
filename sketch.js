@@ -1,6 +1,6 @@
 const Engine = Engine.create();
 const World= Engine.World;
-const Bodies =Engine.Bodies;
+const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
 
 var ground;
